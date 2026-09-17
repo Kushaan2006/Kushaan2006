@@ -21,8 +21,10 @@ Here are some ideas to get you started:
 I'm **Kushaan**, a Software Development student at **Seneca Polytechnic (BSD '28)**.
 
 My main project right now is [**CodeRoom**](https://satnaamcoderoom.vercel.app). With **v1.0.0 released**, I'm currently working toward integrating an **AI-powered code review and advice system** into it.
+
 I enjoy learning how software works beyond the surface — especially **systems, architecture, backend engineering, real-time applications, and infrastructure**.
 I like working with technologies that push me to understand more deeply, not just add another tool to the stack.
+
 Other Projects: LinklyWinkly, TaskScheduler.
 
 **Always learning. Always building.**
