@@ -112,6 +112,7 @@ Let's build and connect :)
 
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Kushaan2006\&theme=dark\&hide_border=true\&include_all_commits=false\&count_private=false\&layout=compact)
 
+<!--
 ---
 
 ## 🔝 Top Contributed Repositories
@@ -123,3 +124,4 @@ Let's build and connect :)
 ## 👀 Profile Views
 
 [![](https://komarev.com/ghpvc/?username=Kushaan2006\&style=for-the-badge\&color=blueviolet)](https://visitcount.itsvg.in)
+-->
