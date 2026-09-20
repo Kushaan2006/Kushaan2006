@@ -25,7 +25,7 @@ My main project right now is [**CodeRoom**](https://satnaamcoderoom.vercel.app) 
 I enjoy learning how software works beyond the surface — especially **systems, architecture, backend engineering, real-time applications, and infrastructure**.
 I like working with technologies that push me to understand more deeply, not just add another tool to the stack.
 
-Other Projects: LinklyWinkly, TaskScheduler.
+Other Projects: [**LinklyWinkly**](https://linklywinkly-rho.vercel.app/) [[**repo**](https://github.com/Kushaan2006/Satnaam_Link_Shortner)], [**TaskScheduler**](https://github.com/Kushaan2006/TaskScheduler_RE).
 
 **Always learning. Always building.**
 
